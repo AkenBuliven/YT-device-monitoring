@@ -5,4 +5,4 @@
  docker-compose.yaml
  log/
  resources/product.json
- *.gitignore
+
